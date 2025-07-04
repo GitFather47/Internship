@@ -44,15 +44,9 @@ A desktop application designed for analyzing Apache web server log files through
 ```bash
 python log_analyzer.py
 ```
+### Method 2: IDE
 
-### Method 2: Double-click (Windows)
-
-  * Right-click the file and select "Open with" then choose Python.
-  * Alternatively, rename the file to `log_analyzer.pyw` for direct execution.
-
-### Method 3: IDE
-
-  * Open the `log_analyzer.py` file in any Python IDE (e.g., PyCharm, VS Code).
+  * Open the `main.py` file in any Python IDE (e.g., PyCharm, VS Code).
   * Execute the script directly from the IDE.
 
 -----
@@ -129,17 +123,6 @@ The analysis provides the following key metrics:
   * **Large files** (50MB+): Processing time may extend to several minutes, depending on system specifications.
 
 -----
-
-## Contributing
-
-1.  Fork the repository.
-2.  Create a new feature branch (`git checkout -b feature/amazing-feature`).
-3.  Commit your changes (`git commit -m 'Add some amazing feature'`).
-4.  Push to the branch (`git push origin feature/amazing-feature`).
-5.  Open a Pull Request.
-
------
-
 
 ## Author
 
