@@ -26,8 +26,8 @@ A desktop application designed for analyzing Apache web server log files through
 
 1.  **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/log-analyzer.git
-    cd log-analyzer
+    git clone https://github.com/GitFather47/Internship
+    cd Internship
     ```
 2.  **Ensure Python is installed** on your system:
     ```bash
@@ -42,7 +42,7 @@ A desktop application designed for analyzing Apache web server log files through
 ### Method 1: Command Line
 
 ```bash
-python log_analyzer.py
+python main.py
 ```
 ### Method 2: IDE
 
